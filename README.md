@@ -14,7 +14,7 @@ The dataset was produced from data obtained from the Lichess open database [1], 
 
 ## Visualization and Interactive Choices
 
-Design wise, the presentation is meant to be simple but intuitive: a single chessboard where hotspots can be visualized was construed as the main piece of the visualization, while a range of interactable components are employed to add interactivity and functionality. Link to the app: https://chess-vis21.herokuapp.com/
+Design wise, the presentation is meant to be simple but intuitive: a single chessboard where hotspots can be visualized was construed as the main piece of the visualization, while a range of interactable components are employed to add interactivity and functionality. Link to the app: https://chess-checkmate-king.herokuapp.com
 
 ## Technical Aspects
 
